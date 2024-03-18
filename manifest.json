@@ -31,24 +31,21 @@
     "getAnswers": {
       "suggested_key": {
         "default": "Ctrl+Shift+F",
-        "mac": "MacCtrl+Shift+F",
-        "chromeos": "MacCtrl+Shift+F"
+        "mac": "MacCtrl+Shift+F"
       },
       "description": "Get Answers"
     },
     "toggleAnswers": {
       "suggested_key": {
         "default": "Ctrl+Shift+H",
-        "mac": "MacCtrl+Shift+H",
-        "chromeos": "MacCtrl+Shift+H"
+        "mac": "MacCtrl+Shift+H"
       },
       "description": "Show/Hide Answers"
     },
     "eraseAnswers": {
       "suggested_key": {
         "default": "Ctrl+Shift+E",
-        "mac": "MacCtrl+Shift+E",
-        "chromeos": "MacCtrl+Shift+E"
+        "mac": "MacCtrl+Shift+E"
       },
       "description": "Erase Answers"
     }
