@@ -40,7 +40,6 @@
         "default": "Ctrl+Shift+H",
         "mac": "MacCtrl+Shift+H",
         "chromeos": "MacCtrl+Shift+H"
-      },
       "description": "Show/Hide Answers"
     },
     "eraseAnswers": {
