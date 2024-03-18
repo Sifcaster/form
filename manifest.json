@@ -32,7 +32,6 @@
       "suggested_key": {
         "default": "Ctrl+Shift+F",
         "mac": "MacCtrl+Shift+F",
-        "chromeos": "MacCtrl+Shift+F"
       },
       "description": "Get Answers"
     },
